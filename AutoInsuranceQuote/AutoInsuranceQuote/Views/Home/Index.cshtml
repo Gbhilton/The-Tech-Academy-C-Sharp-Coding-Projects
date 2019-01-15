@@ -1,0 +1,64 @@
+﻿<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Fill out the form to get an Auto Quote.</h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("GetQuote", "Home", FormMethod.Post))
+            {
+                <div class="row no-gutters">
+
+                    <div class="form-group col-md-12">
+                        <input name="FirstName" type="text" class="form-control" placeholder="First Name" />
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <input name="LastName" type="text" class="form-control" placeholder="Last Name" />
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <input name="EmailAddress" type="email" class="form-control" placeholder="Email Address" />
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <p>Date Of Birth</p>
+                        <input name="DateOfBirth" type="date" class="form-control" placeholder="Date Of Birth" />
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <input name="CarYear" type="number" class="form-control" placeholder="Car Year" />
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <input name="CarMake" type="text" class="form-control" placeholder="Car Make" />
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <input name="CarModel" type="text" class="form-control" placeholder="Car Model" />
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <p>Have you had any <strong>DUI's</strong>?</p>
+                        <!--<input name="DUI" type="hidden" value="0">
+    <input name="DUI" type="checkbox" class="form-control" placeholder="Any DUI's?" value="1" />-->
+                        <input type="hidden" name="DUI" value="0"><input type="checkbox" onclick="this.previousSibling.value=1-this.previousSibling.value">
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <input name="SpeedingTicket" type="number" class="form-control" placeholder="How many Speeding Tickets?" />
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <p>Do you want <strong>Full Coverage?</strong></p>
+                        <!--<input name="FullCoverage" type="hidden" value="0">
+    <input name="FullCoverage" type="checkbox" class="form-control" placeholder="Do you want Full Coverage?" value="1" />-->
+                        <input type="hidden" name="FullCoverage" value="0"><input type="checkbox" onclick="this.previousSibling.value=1-this.previousSibling.value">
+                    </div>
+
+                    <button type="submit" class="btn btn-block btn-info">Submit</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
