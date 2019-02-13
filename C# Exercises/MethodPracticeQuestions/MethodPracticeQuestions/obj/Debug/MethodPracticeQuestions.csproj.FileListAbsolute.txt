@@ -1,0 +1,7 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\MethodPracticeQuestions\MethodPracticeQuestions\obj\Debug\MethodPracticeQuestions.csprojAssemblyReference.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\MethodPracticeQuestions\MethodPracticeQuestions\obj\Debug\MethodPracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\MethodPracticeQuestions\MethodPracticeQuestions\bin\Debug\MethodPracticeQuestions.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\MethodPracticeQuestions\MethodPracticeQuestions\bin\Debug\MethodPracticeQuestions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\MethodPracticeQuestions\MethodPracticeQuestions\bin\Debug\MethodPracticeQuestions.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\MethodPracticeQuestions\MethodPracticeQuestions\obj\Debug\MethodPracticeQuestions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\MethodPracticeQuestions\MethodPracticeQuestions\obj\Debug\MethodPracticeQuestions.pdb

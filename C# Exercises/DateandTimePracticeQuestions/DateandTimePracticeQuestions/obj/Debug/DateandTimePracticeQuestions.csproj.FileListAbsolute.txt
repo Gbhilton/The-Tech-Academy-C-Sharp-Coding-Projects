@@ -1,0 +1,6 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\DateandTimePracticeQuestions\DateandTimePracticeQuestions\bin\Debug\DateandTimePracticeQuestions.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\DateandTimePracticeQuestions\DateandTimePracticeQuestions\bin\Debug\DateandTimePracticeQuestions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\DateandTimePracticeQuestions\DateandTimePracticeQuestions\bin\Debug\DateandTimePracticeQuestions.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\DateandTimePracticeQuestions\DateandTimePracticeQuestions\obj\Debug\DateandTimePracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\DateandTimePracticeQuestions\DateandTimePracticeQuestions\obj\Debug\DateandTimePracticeQuestions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\DateandTimePracticeQuestions\DateandTimePracticeQuestions\obj\Debug\DateandTimePracticeQuestions.pdb

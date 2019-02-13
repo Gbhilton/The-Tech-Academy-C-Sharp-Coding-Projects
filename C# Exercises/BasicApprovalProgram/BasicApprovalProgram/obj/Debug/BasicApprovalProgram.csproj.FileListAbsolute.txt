@@ -1,0 +1,6 @@
+E:\The Tech Academy\C#\BasicApprovalProgram\BasicApprovalProgram\obj\Debug\BasicApprovalProgram.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\BasicApprovalProgram\BasicApprovalProgram\bin\Debug\BasicApprovalProgram.exe.config
+E:\The Tech Academy\C#\BasicApprovalProgram\BasicApprovalProgram\bin\Debug\BasicApprovalProgram.exe
+E:\The Tech Academy\C#\BasicApprovalProgram\BasicApprovalProgram\bin\Debug\BasicApprovalProgram.pdb
+E:\The Tech Academy\C#\BasicApprovalProgram\BasicApprovalProgram\obj\Debug\BasicApprovalProgram.exe
+E:\The Tech Academy\C#\BasicApprovalProgram\BasicApprovalProgram\obj\Debug\BasicApprovalProgram.pdb

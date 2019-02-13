@@ -1,0 +1,7 @@
+E:\The Tech Academy\C#\ExceptionHandlingPracticeQuestions\ExceptionHandlingPracticeQuestions\bin\Debug\ExceptionHandlingPracticeQuestions.exe.config
+E:\The Tech Academy\C#\ExceptionHandlingPracticeQuestions\ExceptionHandlingPracticeQuestions\bin\Debug\ExceptionHandlingPracticeQuestions.exe
+E:\The Tech Academy\C#\ExceptionHandlingPracticeQuestions\ExceptionHandlingPracticeQuestions\bin\Debug\ExceptionHandlingPracticeQuestions.pdb
+E:\The Tech Academy\C#\ExceptionHandlingPracticeQuestions\ExceptionHandlingPracticeQuestions\obj\Debug\ExceptionHandlingPracticeQuestions.csprojAssemblyReference.cache
+E:\The Tech Academy\C#\ExceptionHandlingPracticeQuestions\ExceptionHandlingPracticeQuestions\obj\Debug\ExceptionHandlingPracticeQuestions.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\ExceptionHandlingPracticeQuestions\ExceptionHandlingPracticeQuestions\obj\Debug\ExceptionHandlingPracticeQuestions.exe
+E:\The Tech Academy\C#\ExceptionHandlingPracticeQuestions\ExceptionHandlingPracticeQuestions\obj\Debug\ExceptionHandlingPracticeQuestions.pdb

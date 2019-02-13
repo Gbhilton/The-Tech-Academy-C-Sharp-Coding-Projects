@@ -1,0 +1,7 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ShippingQuotes\ShippingQuotes\bin\Debug\ShippingQuotes.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ShippingQuotes\ShippingQuotes\bin\Debug\ShippingQuotes.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ShippingQuotes\ShippingQuotes\bin\Debug\ShippingQuotes.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ShippingQuotes\ShippingQuotes\obj\Debug\ShippingQuotes.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ShippingQuotes\ShippingQuotes\obj\Debug\ShippingQuotes.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ShippingQuotes\ShippingQuotes\obj\Debug\ShippingQuotes.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ShippingQuotes\ShippingQuotes\obj\Debug\ShippingQuotes.csprojAssemblyReference.cache

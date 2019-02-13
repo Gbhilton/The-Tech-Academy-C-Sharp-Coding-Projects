@@ -1,0 +1,7 @@
+E:\The Tech Academy\C#\Practice117\Practice117\bin\Debug\Practice117.exe.config
+E:\The Tech Academy\C#\Practice117\Practice117\bin\Debug\Practice117.exe
+E:\The Tech Academy\C#\Practice117\Practice117\bin\Debug\Practice117.pdb
+E:\The Tech Academy\C#\Practice117\Practice117\obj\Debug\Practice117.csprojAssemblyReference.cache
+E:\The Tech Academy\C#\Practice117\Practice117\obj\Debug\Practice117.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\Practice117\Practice117\obj\Debug\Practice117.exe
+E:\The Tech Academy\C#\Practice117\Practice117\obj\Debug\Practice117.pdb

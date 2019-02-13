@@ -1,0 +1,7 @@
+E:\The Tech Academy\C#\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+E:\The Tech Academy\C#\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+E:\The Tech Academy\C#\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+E:\The Tech Academy\C#\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+E:\The Tech Academy\C#\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+E:\The Tech Academy\C#\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

@@ -1,0 +1,7 @@
+E:\The Tech Academy\C#\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe.config
+E:\The Tech Academy\C#\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe
+E:\The Tech Academy\C#\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.pdb
+E:\The Tech Academy\C#\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csprojAssemblyReference.cache
+E:\The Tech Academy\C#\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.exe
+E:\The Tech Academy\C#\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.pdb

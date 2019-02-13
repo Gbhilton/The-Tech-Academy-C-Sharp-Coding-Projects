@@ -1,0 +1,7 @@
+C:\Users\usagxh19\source\repos\ExceptionPracticeQuestions\ExceptionPracticeQuestions\bin\Debug\ExceptionPracticeQuestions.exe.config
+C:\Users\usagxh19\source\repos\ExceptionPracticeQuestions\ExceptionPracticeQuestions\bin\Debug\ExceptionPracticeQuestions.exe
+C:\Users\usagxh19\source\repos\ExceptionPracticeQuestions\ExceptionPracticeQuestions\bin\Debug\ExceptionPracticeQuestions.pdb
+C:\Users\usagxh19\source\repos\ExceptionPracticeQuestions\ExceptionPracticeQuestions\obj\Debug\ExceptionPracticeQuestions.csprojAssemblyReference.cache
+C:\Users\usagxh19\source\repos\ExceptionPracticeQuestions\ExceptionPracticeQuestions\obj\Debug\ExceptionPracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\source\repos\ExceptionPracticeQuestions\ExceptionPracticeQuestions\obj\Debug\ExceptionPracticeQuestions.exe
+C:\Users\usagxh19\source\repos\ExceptionPracticeQuestions\ExceptionPracticeQuestions\obj\Debug\ExceptionPracticeQuestions.pdb

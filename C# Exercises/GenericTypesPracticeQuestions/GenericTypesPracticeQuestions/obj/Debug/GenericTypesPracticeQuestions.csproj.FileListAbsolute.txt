@@ -1,0 +1,7 @@
+E:\The Tech Academy\C#\GenericTypesPracticeQuestions\GenericTypesPracticeQuestions\bin\Debug\GenericTypesPracticeQuestions.exe.config
+E:\The Tech Academy\C#\GenericTypesPracticeQuestions\GenericTypesPracticeQuestions\bin\Debug\GenericTypesPracticeQuestions.exe
+E:\The Tech Academy\C#\GenericTypesPracticeQuestions\GenericTypesPracticeQuestions\bin\Debug\GenericTypesPracticeQuestions.pdb
+E:\The Tech Academy\C#\GenericTypesPracticeQuestions\GenericTypesPracticeQuestions\obj\Debug\GenericTypesPracticeQuestions.csprojAssemblyReference.cache
+E:\The Tech Academy\C#\GenericTypesPracticeQuestions\GenericTypesPracticeQuestions\obj\Debug\GenericTypesPracticeQuestions.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\GenericTypesPracticeQuestions\GenericTypesPracticeQuestions\obj\Debug\GenericTypesPracticeQuestions.exe
+E:\The Tech Academy\C#\GenericTypesPracticeQuestions\GenericTypesPracticeQuestions\obj\Debug\GenericTypesPracticeQuestions.pdb

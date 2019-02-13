@@ -1,0 +1,7 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\Iterations\Iterations\obj\Debug\Iterations.csprojAssemblyReference.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\Iterations\Iterations\obj\Debug\Iterations.pdb

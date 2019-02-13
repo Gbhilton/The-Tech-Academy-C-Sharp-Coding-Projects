@@ -1,0 +1,7 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,7 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\FileInputOutputPracticeQuestions\FileInputOutputPracticeQuestions\bin\Debug\FileInputOutputPracticeQuestions.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\FileInputOutputPracticeQuestions\FileInputOutputPracticeQuestions\bin\Debug\FileInputOutputPracticeQuestions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\FileInputOutputPracticeQuestions\FileInputOutputPracticeQuestions\bin\Debug\FileInputOutputPracticeQuestions.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\FileInputOutputPracticeQuestions\FileInputOutputPracticeQuestions\obj\Debug\FileInputOutputPracticeQuestions.csprojAssemblyReference.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\FileInputOutputPracticeQuestions\FileInputOutputPracticeQuestions\obj\Debug\FileInputOutputPracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\FileInputOutputPracticeQuestions\FileInputOutputPracticeQuestions\obj\Debug\FileInputOutputPracticeQuestions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\FileInputOutputPracticeQuestions\FileInputOutputPracticeQuestions\obj\Debug\FileInputOutputPracticeQuestions.pdb

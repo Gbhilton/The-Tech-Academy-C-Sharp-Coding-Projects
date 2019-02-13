@@ -1,0 +1,7 @@
+E:\The Tech Academy\C#\EnumsPracticeQuestions\EnumsPracticeQuestions\bin\Debug\EnumsPracticeQuestions.exe.config
+E:\The Tech Academy\C#\EnumsPracticeQuestions\EnumsPracticeQuestions\bin\Debug\EnumsPracticeQuestions.exe
+E:\The Tech Academy\C#\EnumsPracticeQuestions\EnumsPracticeQuestions\bin\Debug\EnumsPracticeQuestions.pdb
+E:\The Tech Academy\C#\EnumsPracticeQuestions\EnumsPracticeQuestions\obj\Debug\EnumsPracticeQuestions.csprojAssemblyReference.cache
+E:\The Tech Academy\C#\EnumsPracticeQuestions\EnumsPracticeQuestions\obj\Debug\EnumsPracticeQuestions.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\EnumsPracticeQuestions\EnumsPracticeQuestions\obj\Debug\EnumsPracticeQuestions.exe
+E:\The Tech Academy\C#\EnumsPracticeQuestions\EnumsPracticeQuestions\obj\Debug\EnumsPracticeQuestions.pdb

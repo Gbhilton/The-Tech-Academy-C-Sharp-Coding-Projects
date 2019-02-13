@@ -1,0 +1,7 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\LambdaPracticeQuestions\LambdaPracticeQuestions\obj\Debug\LambdaPracticeQuestions.csprojAssemblyReference.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\LambdaPracticeQuestions\LambdaPracticeQuestions\obj\Debug\LambdaPracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\LambdaPracticeQuestions\LambdaPracticeQuestions\bin\Debug\LambdaPracticeQuestions.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\LambdaPracticeQuestions\LambdaPracticeQuestions\bin\Debug\LambdaPracticeQuestions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\LambdaPracticeQuestions\LambdaPracticeQuestions\bin\Debug\LambdaPracticeQuestions.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\LambdaPracticeQuestions\LambdaPracticeQuestions\obj\Debug\LambdaPracticeQuestions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\LambdaPracticeQuestions\LambdaPracticeQuestions\obj\Debug\LambdaPracticeQuestions.pdb

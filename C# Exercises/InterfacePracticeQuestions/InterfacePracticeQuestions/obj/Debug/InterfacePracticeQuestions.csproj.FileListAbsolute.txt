@@ -1,0 +1,7 @@
+E:\The Tech Academy\C#\InterfacePracticeQuestions\InterfacePracticeQuestions\bin\Debug\InterfacePracticeQuestions.exe.config
+E:\The Tech Academy\C#\InterfacePracticeQuestions\InterfacePracticeQuestions\bin\Debug\InterfacePracticeQuestions.exe
+E:\The Tech Academy\C#\InterfacePracticeQuestions\InterfacePracticeQuestions\bin\Debug\InterfacePracticeQuestions.pdb
+E:\The Tech Academy\C#\InterfacePracticeQuestions\InterfacePracticeQuestions\obj\Debug\InterfacePracticeQuestions.csprojAssemblyReference.cache
+E:\The Tech Academy\C#\InterfacePracticeQuestions\InterfacePracticeQuestions\obj\Debug\InterfacePracticeQuestions.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\InterfacePracticeQuestions\InterfacePracticeQuestions\obj\Debug\InterfacePracticeQuestions.exe
+E:\The Tech Academy\C#\InterfacePracticeQuestions\InterfacePracticeQuestions\obj\Debug\InterfacePracticeQuestions.pdb

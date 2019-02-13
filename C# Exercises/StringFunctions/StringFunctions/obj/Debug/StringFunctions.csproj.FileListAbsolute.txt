@@ -1,0 +1,6 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctions\StringFunctions\bin\Debug\StringFunctions.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctions\StringFunctions\obj\Debug\StringFunctions.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctions\StringFunctions\obj\Debug\StringFunctions.pdb

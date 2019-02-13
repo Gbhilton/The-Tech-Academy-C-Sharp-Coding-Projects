@@ -1,0 +1,7 @@
+E:\The Tech Academy\C#\StructPracticeQuestions\StructPracticeQuestions\bin\Debug\StructPracticeQuestions.exe.config
+E:\The Tech Academy\C#\StructPracticeQuestions\StructPracticeQuestions\bin\Debug\StructPracticeQuestions.exe
+E:\The Tech Academy\C#\StructPracticeQuestions\StructPracticeQuestions\bin\Debug\StructPracticeQuestions.pdb
+E:\The Tech Academy\C#\StructPracticeQuestions\StructPracticeQuestions\obj\Debug\StructPracticeQuestions.csprojAssemblyReference.cache
+E:\The Tech Academy\C#\StructPracticeQuestions\StructPracticeQuestions\obj\Debug\StructPracticeQuestions.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\StructPracticeQuestions\StructPracticeQuestions\obj\Debug\StructPracticeQuestions.exe
+E:\The Tech Academy\C#\StructPracticeQuestions\StructPracticeQuestions\obj\Debug\StructPracticeQuestions.pdb

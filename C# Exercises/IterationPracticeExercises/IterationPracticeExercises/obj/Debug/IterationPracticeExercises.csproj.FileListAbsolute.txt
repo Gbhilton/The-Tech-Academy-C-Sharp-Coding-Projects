@@ -1,0 +1,7 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\IterationPracticeExercises\IterationPracticeExercises\obj\Debug\IterationPracticeExercises.csprojAssemblyReference.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\IterationPracticeExercises\IterationPracticeExercises\obj\Debug\IterationPracticeExercises.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\IterationPracticeExercises\IterationPracticeExercises\bin\Debug\IterationPracticeExercises.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\IterationPracticeExercises\IterationPracticeExercises\bin\Debug\IterationPracticeExercises.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\IterationPracticeExercises\IterationPracticeExercises\bin\Debug\IterationPracticeExercises.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\IterationPracticeExercises\IterationPracticeExercises\obj\Debug\IterationPracticeExercises.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\IterationPracticeExercises\IterationPracticeExercises\obj\Debug\IterationPracticeExercises.pdb

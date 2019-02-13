@@ -1,0 +1,6 @@
+E:\The Tech Academy\C#\MathExercise1\MathExercise1\obj\Debug\MathExercise1.csproj.CoreCompileInputs.cache
+E:\The Tech Academy\C#\MathExercise1\MathExercise1\bin\Debug\MathExercise1.exe.config
+E:\The Tech Academy\C#\MathExercise1\MathExercise1\bin\Debug\MathExercise1.exe
+E:\The Tech Academy\C#\MathExercise1\MathExercise1\bin\Debug\MathExercise1.pdb
+E:\The Tech Academy\C#\MathExercise1\MathExercise1\obj\Debug\MathExercise1.exe
+E:\The Tech Academy\C#\MathExercise1\MathExercise1\obj\Debug\MathExercise1.pdb

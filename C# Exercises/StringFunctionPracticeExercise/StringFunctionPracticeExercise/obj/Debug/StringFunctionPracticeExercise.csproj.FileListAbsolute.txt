@@ -1,0 +1,6 @@
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctionPracticeExercise\StringFunctionPracticeExercise\bin\Debug\StringFunctionPracticeExercise.exe.config
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctionPracticeExercise\StringFunctionPracticeExercise\bin\Debug\StringFunctionPracticeExercise.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctionPracticeExercise\StringFunctionPracticeExercise\bin\Debug\StringFunctionPracticeExercise.pdb
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctionPracticeExercise\StringFunctionPracticeExercise\obj\Debug\StringFunctionPracticeExercise.csproj.CoreCompileInputs.cache
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctionPracticeExercise\StringFunctionPracticeExercise\obj\Debug\StringFunctionPracticeExercise.exe
+C:\Users\usagxh19\Desktop\Information\Homework\The Tech Academy\C# Projects\StringFunctionPracticeExercise\StringFunctionPracticeExercise\obj\Debug\StringFunctionPracticeExercise.pdb
